@@ -112,7 +112,7 @@ $ docker run -d \
 
 This project supports one-click deployment by Vercel. Click the button below to deploy to the Vercel platform.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Froyzxje%2Fchat-with-gemini&env=REACT_APP_GEMINI_API_KEY&envDescription=REACT_APP_GEMINI_API_KEY%20is%20essential&envLink=https%3A%2F%2Fgithub.com%2Fbclswl0827%2FChatGemini%2Fblob%2Fmaster%2FREADME.md&demo-title=ChatGemini&demo-url=https%3A%2F%2Fibcl .us%2FChatGemini&demo-image= https%3A%2F%2Fraw.githubusercontent.com%2Fbclswl0827%2FChatGemini%2Fmaster%2Fsrc%2Fassets%2Flogo.svg)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Froyzxje%2Fchat-with-gemini&env=REACT_APP_GEMINI_API_KEY&envDescription=REACT_APP_GEMINI_API_KEY%20is%20essential&envLink=https%3A%2F%2Fgithub.com%2Fbclswl0827%2FChatGemini%2Fblob%2Fmaster%2FREADME.md&demo-title=ChatGemini&demo-url=https%3A%2F%2Fibcl.us%2FChatGemini&demo-image=https%3A%2F%2Fraw.githubusercontent.com%2Fbclswl0827%2FChatGemini%2Fmaster%2Fsrc%2Fassets%2Flogo.svg)
 
 Only the required `REACT_APP_GEMINI_API_KEY` variable is left in the template. After the deployment is completed, if you need to modify or add a new configuration, please go to the Vercel console, click on the corresponding item, and then click on `Settings` -> `Environment Variables` to modify it . After the modification is completed, deployment needs to be triggered again in the Vercel console for the new configuration to take effect.
 
